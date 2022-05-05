@@ -4,4 +4,5 @@ Dando os primeiros passos. Nesse primeiro contato, apenas repliquei os ensinamen
 Segue informações dela:
 
 Github: https://github.com/AdrianaSaty/
+
 Youtube: https://www.youtube.com/c/AdrianaSaty/videos
